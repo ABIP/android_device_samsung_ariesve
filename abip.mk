@@ -7,7 +7,7 @@ $(call inherit-product, $(LOCAL_PATH)/full_ariesve.mk)
 PRODUCT_RELEASE_NAME := ariesve
 
 # Setup device configuration
-PRODUCT_NAME := cm_ariesve
+PRODUCT_NAME := abip_ariesve
 PRODUCT_DEVICE := ariesve
 PRODUCT_BRAND := Samsung
 PRODUCT_MANUFACTURER := Samsung
