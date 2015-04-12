@@ -1,5 +1,5 @@
-# Inherit some common CM stuff.
-$(call inherit-product, vendor/cm/config/common_mini_phone.mk)
+# Inherit some common ABIP stuff.
+$(call inherit-product, vendor/abip/config/common_mini_phone.mk)
 
 # Inherit device configuration
 $(call inherit-product, $(LOCAL_PATH)/full_ariesve.mk)
